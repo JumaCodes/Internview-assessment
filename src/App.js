@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import "./App.css"
 import MatchList from './components/MatchList';
 import data from './data'; // Yo
